@@ -1,5 +1,5 @@
 /* 
-# This file has C code of answers for problems 1-18 found in http://cslibrary.stanford.edu/105/LinkedListProblems.pdf 
+# C code, Q 1-18,  http://cslibrary.stanford.edu/105/LinkedListProblems.pdf 
 # Written by: SPS
 # Last modified: 19-Apr-2015
 */
