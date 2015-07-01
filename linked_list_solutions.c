@@ -86,7 +86,7 @@ int main()
 	ReverseTest();
 	RecursiveReverseTest();
 
-	printf("\nA good learning, and many thanks to one who made the questions available !!\n\n");
+	printf("\nCompleted!!\n\n");
 	return 0;
 }
 
